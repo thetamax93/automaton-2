@@ -1,5 +1,5 @@
 # Altech-Live-Coding-Test
-This is the automated live coding test for QA Engineer assessment
+This is the QA automation live coding test for QA Engineer assessment
 
 To run this script, you need to:
 
