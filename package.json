@@ -1,0 +1,17 @@
+{
+  "name": "Live Coding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Altech Sweet Escape"
+  },
+  "author": "Dani Adityatama",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
